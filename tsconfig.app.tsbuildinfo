@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/global.d.ts","./src/main.tsx","./src/vite-env.d.ts","./src/abis/lnbridge-v3.ts","./src/config/graphql-client.ts","./src/config/graphql-documents.ts","./src/gql/fragment-masking.ts","./src/gql/gql.ts","./src/gql/graphql.ts","./src/gql/index.ts"],"version":"5.6.2"}
